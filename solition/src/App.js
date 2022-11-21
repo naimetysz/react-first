@@ -1,10 +1,9 @@
 
-import './App.scss'
 
 const App = () =>{
   return(
     <div classname="App">
-      APP
+      <h1>App</h1>
     </div>
   )
 }
